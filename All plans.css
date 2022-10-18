@@ -1,0 +1,42 @@
+table{
+    border: 2px solid whitesmoke;
+    border-collapse: collapse;
+
+}
+td, th, tr{
+    border: 1px solid wheat;
+}
+ tr:hover{
+    background-color: whitesmoke;
+    
+}
+.to{
+    border: 20px solid whitesmoke;
+    background-color: whitesmoke;
+
+}
+.go{
+   padding: 50px;
+    width: 50px;
+}
+
+.get{
+    margin-left: 10%;
+    margin-right: 9%;
+
+}
+h3{ border: 20px solid whitesmoke;
+    background-color: whitesmoke;
+    
+}
+
+    th{
+        padding: 30px;
+    }
+    td{
+      padding-left: 19px;
+    }
+    .lolo{
+        padding-bottom: 40px;
+        background-color: wheat;
+    }
